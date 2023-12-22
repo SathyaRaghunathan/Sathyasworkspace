@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Madlibs Generator", "Madlibs Generator.pyproj", "{CA939007-C635-459F-A155-E08C0357D4A1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TimedMathChallenge", "..\TimedMathChallenge\TimedMathChallenge.pyproj", "{095921CC-691A-4BDA-81DD-A041BF18B44A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA939007-C635-459F-A155-E08C0357D4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA939007-C635-459F-A155-E08C0357D4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{095921CC-691A-4BDA-81DD-A041BF18B44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{095921CC-691A-4BDA-81DD-A041BF18B44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F39B3A67-FA93-40A7-9955-7A554BD62EAC}
+	EndGlobalSection
+EndGlobal
